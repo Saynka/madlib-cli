@@ -2,7 +2,7 @@
 
 ## commits
 
-* 
+* https://github.com/Saynka/madlib-cli/pull/1
 
 ## Description 
 
